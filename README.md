@@ -1,2 +1,2 @@
-# Back-Pain-ANN-Prediction
-🧑🏻‍🦯🏥 ANN Predictive Model on Patients' Lower Back Pain
+# Spine-Abnormality-ANN-Prediction
+🧑🏻‍🦯🏥 ANN Predictive Model on Patients' Spine Abnormality
